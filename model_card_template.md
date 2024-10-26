@@ -18,7 +18,7 @@
 
 ### Metrics
 
-> After assessing the model's performance, these are the metrics that > were obtained:<br>
+> After assessing the model's performance, these are the metrics that were obtained:<br>
 > - ***Precision***: 0.7419
 > - ***Recall***: 0.6384
 > - ***F1 score***: 0.6863
