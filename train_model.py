@@ -80,7 +80,7 @@ for col in cat_features:
         p, r, fb = performance_on_categorical_slice(
             data=test,
             column_name=col,
-            slice_value=slice_value,
+            slice_value=slicevalue,
             categorical_features=cat_features,
             label="salary",
             encoder=encoder,
